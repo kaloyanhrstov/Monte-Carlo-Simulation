@@ -6,4 +6,4 @@ Monte Carlo simulation, or Monte Carlo methods, are a broad class of computation
 * Computer graphics
 * Finance and business
 * Law
-In this documentation, I will show you two examples of Monte Carlo simulation (Finance and business, Artificial intelligence for games).
+In this documentation (Monte Carlo Simulation.ipynb file), I will show you two examples of Monte Carlo simulation (Finance and business, Artificial intelligence for games).
